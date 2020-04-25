@@ -8,15 +8,19 @@ The goal is still to  achieve  99.4 % target accuracy. Intentend of this model t
 DropOut has the effect of reducing the capacity or thinning the network during training. When we use Dropout in a network, randomly selected neurons are ignored during training. They are “dropped-out” randomly. 
 
 It's a regularization method, which  reduces over-fitting by adding a penalty to the loss function.
+
 #Params	
+
 9322
 
 #WITH 15 EPOCHS
 
 #DropOut value
+
 0.02 
 
 #Best Train Accuracy	
+
 99.54%
 
 #Best Test Accuracy	
