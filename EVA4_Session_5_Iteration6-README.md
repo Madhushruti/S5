@@ -10,22 +10,27 @@ In this iteration we want to -
 
 
 #Params	
+
 9,923
 
 #WITH 15 EPOCHS
 
 #DropOut value
+
 0.02
 
 
 #Best Train Accuracy	
+
 99.29%
 
 #Best Test Accuracy	
+
 99.32%
 
 
 #Observation/ Analysis/Conclusion	
+
 The model is not Overfitting, but we are yet to attain Target Accuracy. 
 
 #Comment	
